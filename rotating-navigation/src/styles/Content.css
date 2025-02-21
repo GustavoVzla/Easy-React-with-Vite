@@ -1,0 +1,22 @@
+.content img {
+  max-width: 100%;
+}
+
+.content {
+  max-width: 1000px;
+  margin: 50px auto;
+}
+
+.content h1 {
+  margin: 0;
+}
+
+.content small {
+  color: #291818;
+  font-style: italic;
+}
+
+.content p {
+  color: #291818;
+  line-height: 1.5;
+}

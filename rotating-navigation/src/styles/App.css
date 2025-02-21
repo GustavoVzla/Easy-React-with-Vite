@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css?family=Lato&display=swap");
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Lato";
+  background-color: #291818;
+  overflow-x: hidden;
+  margin: 0;
+}
+
+.container {
+  background-color: #fafafa;
+  width: 100vw;
+  min-height: 100vh;
+  padding: 50px;
+  transform-origin: top left;
+  transition: transform 0.5s linear;
+}
+
+.container.show-nav {
+  transform: rotate(-20deg);
+}
