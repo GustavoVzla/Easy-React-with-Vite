@@ -16,7 +16,7 @@ This repository is a collection of small projects developed with **React** and *
 
 Each project has its own instructions, but these are the general ones:
 1. Clone the repository: `git clone https://github.com/GustavoVzla/Easy-React-with-Vite.git`
-   - or create each project from scratch and modify the folder and file structure according to the example `npm create vite@latest projectName -- --template react`
+   - or create each project from scratch and modify the folder and modify the file structure according to the example `npm create vite@latest projectName -- --template react`
 3. Navigate to a project folder: `cd name-project`
 4. Install the dependencies: `npm install`
 5. Run the project: `npm run dev`
