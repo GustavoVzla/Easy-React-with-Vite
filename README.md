@@ -29,12 +29,12 @@ If you would like to contribute, follow these steps:
 
 ## Projects list
 
-1. **[Rotating Navigation](#)**
+1. **[Rotating Navigation]**
 
 
 ## Contact
 
-[www.linkedin.com/in/gustavotejera]
+www.linkedin.com/in/gustavotejera
 
 ---
 Thanks for visiting this repository! I hope you find these projects useful for learning and practicing React with Vite.
