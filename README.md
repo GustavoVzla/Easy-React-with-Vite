@@ -32,8 +32,8 @@ Contributions are welcome! If you have ideas for new projects or improvements, o
 
 ## Projects list
 
-1. **[Rotating Navigation](#)**
-   - An interactive interface with a circular button that toggles an animated side navigation.
+1. **[Rotating Navigation](rotating-navigation)**
+   - An interactive interface with a circular button that toggles an animated side navigation. [Watch Live](https://rotating-navigation-zeta.vercel.app/)
   
 ## License
 
