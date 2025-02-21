@@ -14,27 +14,33 @@ This repository is a collection of small projects developed with **React** and *
 
 ## How to Use
 
+Each project has its own instructions, but these are the general ones:
 1. Clone the repository: `git clone https://github.com/GustavoVzla/Easy-React-with-Vite.git`
-2. Navigate to a project folder: `cd name project`
+2. Navigate to a project folder: `cd name-project`
 3. Install the dependencies: `npm install`
 4. Run the project: `npm run dev`
 
 ## How to Contribute
 
-If you would like to contribute, follow these steps:
+Contributions are welcome! If you have ideas for new projects or improvements, open an issue or submit a pull request:
 1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-project-name`).
-3. Make your changes and submit a pull request.
+2. Create a new branch `git checkout -b feature/your-project-name`.
+3. Make your changes and be sure to include a detailed README.md for your project.
+4. Submit a pull request explaining your changes.
 
 
 ## Projects list
 
-1. **[Rotating Navigation]**
+1. **[Rotating Navigation](#)**
+   - An interactive interface with a circular button that toggles an animated side navigation.
+  
+## License
 
+This project is under the MIT license. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
 www.linkedin.com/in/gustavotejera
 
 ---
-Thanks for visiting this repository! I hope you find these projects useful for learning and practicing React with Vite.
+Thanks for visiting this repository! I hope you find these projects useful for learning and practicing React with Vite. Have fun coding! 🚀
