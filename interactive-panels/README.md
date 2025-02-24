@@ -17,7 +17,3 @@ The panel data (titles and background images) is obtained by calling a mock API 
 5. Add this line in the scripsts to the package.json file: `"server": "json-server --watch db.json --port 5000"`.
 6. Run the project: `npm run server`.
 7. Add `"react/prop-types": 0,` to the package.son file.
-
-## Watch Live
-
-[Watch Live](https://interactive-panels.vercel.app/)
