@@ -35,7 +35,7 @@ Contributions are welcome! If you have ideas for new projects or improvements, o
 1. **[Rotating Navigation](rotating-navigation)**
    - An interactive interface with a circular button that toggles an animated side navigation. [Watch Live](https://rotating-navigation-zeta.vercel.app/)
 2. **[Blurry Loading](blurry-loading)**
-   - A 'Blurry Loading' effect. An image starts out completely out of focus, and as a percentage counter advances, the image gradually comes into focus until it is sharp. [Watch Live]([https://rotating-navigation-zeta.vercel.app/](https://blurry-loading-delta.vercel.app/))
+   - A 'Blurry Loading' effect. An image starts out completely out of focus, and as a percentage counter advances, the image gradually comes into focus until it is sharp. [Watch Live]([(https://blurry-loading-delta.vercel.app/)])
   
 ## License
 
