@@ -37,6 +37,9 @@ Contributions are welcome! If you have ideas for new projects or improvements, o
    - An interactive interface with a circular button that toggles an animated side navigation. [Watch Live](https://rotating-navigation-zeta.vercel.app/)
 2. **[Blurry Loading](blurry-loading)**
    - A 'Blurry Loading' effect. An image starts out completely out of focus, and as a percentage counter advances, the image gradually comes into focus until it is sharp. [Watch Live](https://blurry-loading-delta.vercel.app/)
+3. **[Interactive Panels](blurry-loading)**
+   - This project implements an interactive layout of panels that expand when clicked. Each panel displays a background image and a dynamic title. When you select a panel, it expands to take up more space, while the others collapse.
+     The panel data (titles and background images) is obtained by calling a mock API using **json-server**. To make the HTTP request, the **Axios** library is used. [Watch Live](https://interactive-panels.vercel.app/)
 
 ## License
 

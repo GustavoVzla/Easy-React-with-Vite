@@ -1,0 +1,29 @@
+{
+  "panels": [
+    {
+      "id": 1,
+      "title": "Explore Venezuela",
+      "background": "https://as2.ftcdn.net/v2/jpg/00/90/20/53/1000_F_90205385_GgmA7dj6SAktL2nqZNTLU7DdZQB3zBl5.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Wild Rainforest",
+      "background": "https://as1.ftcdn.net/v2/jpg/03/54/84/96/1000_F_354849678_SOd38ThBW96jzB2qGzbIdSfQ5jO11hvJ.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Beautiful Beaches",
+      "background": "https://images.unsplash.com/photo-1584240117008-9b9d7525e96f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=800"
+    },
+    {
+      "id": 4,
+      "title": "City Lifestyle",
+      "background": "https://as1.ftcdn.net/v2/jpg/01/83/56/74/1000_F_183567453_m2fs6tOy3XaLcruNdgWAZN3GM9mD89Gl.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Mountains - Falls",
+      "background": "https://as1.ftcdn.net/v2/jpg/00/61/44/44/1000_F_61444459_basstapha4Gj0xb2Ppon9x5fX7Rxl4ND.jpg"
+    }
+  ]
+}
