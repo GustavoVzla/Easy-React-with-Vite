@@ -1,0 +1,16 @@
+.bg {
+  background: url("../assets/minh-ey8R4jUheBQ-unsplash.jpg") no-repeat center
+    center/cover;
+  position: absolute;
+  top: -30px;
+  left: -30px;
+  width: calc(100% + 60px);
+  height: calc(100vh + 60px);
+  z-index: -1;
+  filter: blur(0px);
+}
+
+.loading-text {
+  font-size: 50px;
+  color: #fff;
+}
