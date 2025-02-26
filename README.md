@@ -38,6 +38,7 @@ Contributions are welcome! If you have ideas for new projects or improvements, o
 3. **[Interactive Panels](interactive-panels)**, [Watch Live](https://interactive-panels.vercel.app/)
 4. **[Progress Steps](progress-steps)**, [Watch Live](https://progress-steps-psi.vercel.app/)
 5. **[Interactive Search Bar](interactive-search-bar)**, [Watch Live](https://interactive-search-bar.vercel.app/)
+6. **[Scroll-Triggered Animation](interactive-search-bar)**
 
 ## License
 
