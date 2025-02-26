@@ -13,3 +13,7 @@ This project implements a scroll-triggered animation. When the user scrolls, the
 3. Install the dependencies: `npm install`.
 4. Run the project: `npm run dev`.
 5. Add `"react/prop-types": 0,` to the package.son file.
+
+## Watch Live
+
+[Watch Live](https://scroll-triggered-animation.vercel.app/)
