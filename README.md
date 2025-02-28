@@ -39,6 +39,7 @@ Contributions are welcome! If you have ideas for new projects or improvements, o
 4. **[Progress Steps](progress-steps)**, [Watch Live](https://progress-steps-psi.vercel.app/)
 5. **[Interactive Search Bar](interactive-search-bar)**, [Watch Live](https://interactive-search-bar.vercel.app/)
 6. **[Scroll-Triggered Animation](interactive-search-bar)**, [Watch Live](https://scroll-triggered-animation.vercel.app/)
+7. **[Interactive Split Section](interactive-search-bar)**, [Watch Live](https://interactive-split-section.vercel.app/)
 
 ## License
 
