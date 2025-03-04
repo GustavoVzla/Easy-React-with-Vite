@@ -40,6 +40,7 @@ Contributions are welcome! If you have ideas for new projects or improvements, o
 5. **[Interactive Search Bar](interactive-search-bar)**, [Watch Live](https://interactive-search-bar.vercel.app/)
 6. **[Scroll-Triggered Animation](interactive-search-bar)**, [Watch Live](https://scroll-triggered-animation.vercel.app/)
 7. **[Interactive Split Section](interactive-split-section)**, [Watch Live](https://interactive-split-section.vercel.app/)
+8. **[Animated Login Form](animated-login-form)**, [Watch Live](https://animated-login-form-ten.vercel.app/)
 
 ## License
 
@@ -48,6 +49,8 @@ This project is under the MIT license. See the [LICENSE](LICENSE) file for detai
 ## Contact
 
 www.linkedin.com/in/gustavotejera
+Instagram: @gustavotejera.dev
+TikTok: @gustavotejera.dev
 
 ---
 
