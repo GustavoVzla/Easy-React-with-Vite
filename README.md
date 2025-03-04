@@ -48,9 +48,9 @@ This project is under the MIT license. See the [LICENSE](LICENSE) file for detai
 
 ## Contact
 
-www.linkedin.com/in/gustavotejera
-Instagram: @gustavotejera.dev
-TikTok: @gustavotejera.dev
+- www.linkedin.com/in/gustavotejera
+- **Instagram**: @gustavotejera.dev
+- **TikTok**: @gustavotejera.dev
 
 ---
 
