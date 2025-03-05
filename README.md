@@ -33,29 +33,19 @@ Contributions are welcome! If you have ideas for new projects or improvements, o
 
 ## Projects list
 
-1. **[Rotating Navigation](rotating-navigation)**, [Watch Live](https://rotating-navigation-zeta.vercel.app/)
-2. **[Blurry Loading](blurry-loading)**, [Watch Live](https://blurry-loading-delta.vercel.app/)
-3. **[Interactive Panels](interactive-panels)**, [Watch Live](https://interactive-panels.vercel.app/)
-4. **[Progress Steps](progress-steps)**, [Watch Live](https://progress-steps-psi.vercel.app/)
-5. **[Interactive Search Bar](interactive-search-bar)**, [Watch Live](https://interactive-search-bar.vercel.app/)
-6. **[Scroll-Triggered Animation](interactive-search-bar)**, [Watch Live](https://scroll-triggered-animation.vercel.app/)
-7. **[Interactive Split Section](interactive-split-section)**, [Watch Live](https://interactive-split-section.vercel.app/)
-8. **[Animated Login Form](animated-login-form)**, [Watch Live](https://animated-login-form-ten.vercel.app/)
-9. **[Interactive Sound Board](interactive-sound-board)**, [Watch Live](https://interactive-sound-board.vercel.app/)
-
 # Índice de Proyectos
 
-| Número | Nombre del Proyecto        | Descripción Breve                           | Enlace al Código                     | Demo en Vivo                                           |
-| ------ | -------------------------- | ------------------------------------------- | ------------------------------------ | ------------------------------------------------------ |
-| 1      | Rotating Navigation        | Una navegación lateral animada con rotación | [Código](rotating-navigation)        | [Demo](https://rotating-navigation-zeta.vercel.app/)   |
-| 2      | Blurry Loading             | Un efecto de carga borrosa gradual          | [Código](blurry-loading)             | [Demo](https://blurry-loading-delta.vercel.app/)       |
-| 3      | Interactive Panels         | Paneles interactivos que se expanden        | [Código](interactive-panels)         | [Demo](https://interactive-panels.vercel.app/)         |
-| 4      | Progress Steps             | Pasos progresivos con botones "Prev/Next"   | [Código](progress-steps)             | [Demo](https://progress-steps-psi.vercel.app/)         |
-| 5      | Interactive Search Bar     | Una barra de búsqueda que se expande        | [Código](interactive-search-bar)     | [Demo](https://interactive-search-bar.vercel.app/)     |
-| 6      | Scroll-Triggered Animation | Animaciones activadas por el desplazamiento | [Código](scroll-triggered-animation) | [Demo](https://scroll-triggered-animation.vercel.app/) |
-| 7      | Interactive Split Section  | Dos secciones interactivas divididas        | [Código](interactive-split-section)  | [Demo](https://interactive-split-section.vercel.app/)  |
-| 8      | Animated Login Form        | Formulario de inicio de sesión animado      | [Código](animated-login-form)        | [Demo](https://animated-login-form-ten.vercel.app/)    |
-| 9      | Interactive Sound Board    | Botones interactivos que reproducen sonidos | [Código](interactive-sound-board)    | [Demo](https://interactive-sound-board.vercel.app/)    |
+| Number | Project Name                                             | Watch Live                                             |
+| ------ | -------------------------------------------------------- | ------------------------------------------------------ |
+| 1      | [Rotating Navigation](rotating-navigation)               | [Demo](https://rotating-navigation-zeta.vercel.app/)   |
+| 2      | [Blurry Loading](blurry-loading)                         | [Demo](https://blurry-loading-delta.vercel.app/)       |
+| 3      | [Interactive Panels](interactive-panels)                 | [Demo](https://interactive-panels.vercel.app/)         |
+| 4      | [Progress Steps](progress-steps)                         | [Demo](https://progress-steps-psi.vercel.app/)         |
+| 5      | [Interactive Search Bar](interactive-search-bar)         | [Demo](https://interactive-search-bar.vercel.app/)     |
+| 6      | [Scroll-Triggered Animation](scroll-triggered-animation) | [Demo](https://scroll-triggered-animation.vercel.app/) |
+| 7      | [Interactive Split Section](interactive-split-section)   | [Demo](https://interactive-split-section.vercel.app/)  |
+| 8      | [Animated Login Form](animated-login-form)               | [Demo](https://animated-login-form-ten.vercel.app/)    |
+| 9      | [Interactive Sound Board](interactive-sound-board)       | [Demo](https://interactive-sound-board.vercel.app/)    |
 
 ## License
 
