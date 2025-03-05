@@ -13,10 +13,12 @@ The panel data (titles and background images) is obtained by calling a mock API 
 1. Clone the repository or create each project from scratch and the folder and file structure `npm create vite@latest projectName -- --template react`.
 2. Navigate to the project folder: `interactive-panels`.
 3. Install the dependencies: `npm install`.
-4. Run the project: `npm run dev`.
-5. Add this line in the scripsts to the package.json file: `"server": "json-server --watch db.json --port 5000"`.
-6. Run the project: `npm run server`.
-7. Add `"react/prop-types": 0,` to the package.son file.
+4. Install json-server: `npm install -g json-server`.
+5. Install axios library: `npm install axios`.
+6. Run the project: `npm run dev`.
+7. Add this line in the scripsts to the package.json file: `"server": "json-server --watch db.json --port 5000"`.
+8. Run the project: `npm run server`.
+9. Add `"react/prop-types": 0,` to the package.son file.
 
 ## Watch Live
 

@@ -1,4 +1,4 @@
-# Scroll-Triggered Animation
+# Interactive Split Section
 
 This project implements an interface divided into two interactive sections (`SplitSection`). Each section responds to mouse movement, expanding when the user hovers over it. The background images represent popular video game consoles (PlayStation 5 and Xbox Series X), with call-to-action ("Buy Now") buttons.
 

@@ -31,19 +31,20 @@ Contributions are welcome! If you have ideas for new projects or improvements, o
 3. Make your changes and be sure to include a detailed README.md for your project.
 4. Submit a pull request explaining your changes.
 
-## Projects list
+## Project list
 
-| Number | Project Name                                             | Watch Live                                             |
-| ------ | -------------------------------------------------------- | ------------------------------------------------------ |
-| 1      | [Rotating Navigation](rotating-navigation)               | [Demo](https://rotating-navigation-zeta.vercel.app/)   |
-| 2      | [Blurry Loading](blurry-loading)                         | [Demo](https://blurry-loading-delta.vercel.app/)       |
-| 3      | [Interactive Panels](interactive-panels)                 | [Demo](https://interactive-panels.vercel.app/)         |
-| 4      | [Progress Steps](progress-steps)                         | [Demo](https://progress-steps-psi.vercel.app/)         |
-| 5      | [Interactive Search Bar](interactive-search-bar)         | [Demo](https://interactive-search-bar.vercel.app/)     |
-| 6      | [Scroll-Triggered Animation](scroll-triggered-animation) | [Demo](https://scroll-triggered-animation.vercel.app/) |
-| 7      | [Interactive Split Section](interactive-split-section)   | [Demo](https://interactive-split-section.vercel.app/)  |
-| 8      | [Animated Login Form](animated-login-form)               | [Demo](https://animated-login-form-ten.vercel.app/)    |
-| 9      | [Interactive Sound Board](interactive-sound-board)       | [Demo](https://interactive-sound-board.vercel.app/)    |
+| Number | Project Name                                             | Watch Live                                              |
+| ------ | -------------------------------------------------------- | ------------------------------------------------------- |
+| 1      | [Rotating Navigation](rotating-navigation)               | [Demo](https://rotating-navigation-zeta.vercel.app/)    |
+| 2      | [Blurry Loading](blurry-loading)                         | [Demo](https://blurry-loading-delta.vercel.app/)        |
+| 3      | [Interactive Panels](interactive-panels)                 | [Demo](https://interactive-panels.vercel.app/)          |
+| 4      | [Progress Steps](progress-steps)                         | [Demo](https://progress-steps-psi.vercel.app/)          |
+| 5      | [Interactive Search Bar](interactive-search-bar)         | [Demo](https://interactive-search-bar.vercel.app/)      |
+| 6      | [Scroll-Triggered Animation](scroll-triggered-animation) | [Demo](https://scroll-triggered-animation.vercel.app/)  |
+| 7      | [Interactive Split Section](interactive-split-section)   | [Demo](https://interactive-split-section.vercel.app/)   |
+| 8      | [Animated Login Form](animated-login-form)               | [Demo](https://animated-login-form-ten.vercel.app/)     |
+| 9      | [Interactive Sound Board](interactive-sound-board)       | [Demo](https://interactive-sound-board.vercel.app/)     |
+| 10     | [Random Joke Generator](random-joke-generator)           | [Demo](https://random-joke-generator-brown.vercel.app/) |
 
 ## License
 
