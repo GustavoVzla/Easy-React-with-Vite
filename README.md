@@ -41,6 +41,7 @@ Contributions are welcome! If you have ideas for new projects or improvements, o
 6. **[Scroll-Triggered Animation](interactive-search-bar)**, [Watch Live](https://scroll-triggered-animation.vercel.app/)
 7. **[Interactive Split Section](interactive-split-section)**, [Watch Live](https://interactive-split-section.vercel.app/)
 8. **[Animated Login Form](animated-login-form)**, [Watch Live](https://animated-login-form-ten.vercel.app/)
+9. **[Interactive Sound Board](interactive-sound-board)**, [Watch Live](https://interactive-sound-board.vercel.app/)
 
 ## License
 
