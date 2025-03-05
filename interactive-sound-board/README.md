@@ -4,7 +4,7 @@ This project implements an interactive sound board. Each button plays a specific
 
 ## Screenshot
 
-![interactive-sound-board-demo](./interactive-sound-board.gif)
+![interactive-sound-board-demo](./interactive-sound-board-demo.gif)
 
 ## How to Run
 

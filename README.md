@@ -33,8 +33,6 @@ Contributions are welcome! If you have ideas for new projects or improvements, o
 
 ## Projects list
 
-# Índice de Proyectos
-
 | Number | Project Name                                             | Watch Live                                             |
 | ------ | -------------------------------------------------------- | ------------------------------------------------------ |
 | 1      | [Rotating Navigation](rotating-navigation)               | [Demo](https://rotating-navigation-zeta.vercel.app/)   |
