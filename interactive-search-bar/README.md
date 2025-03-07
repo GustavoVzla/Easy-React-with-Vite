@@ -8,11 +8,11 @@ This project implements an interactive search bar that expands when the user int
 
 ## How to Run
 
-1. Clone the repository or create each project from scratch and the folder and file structure `npm create vite@latest projectName -- --template react`.
+1. Clone the repository or create each project from scratch and follow the folder and file structure `npm create vite@latest projectName -- --template react`.
 2. Navigate to the project folder: `cd interactive-search-bar`.
 3. Install the dependencies: `npm install`.
 4. Run the project: `npm run dev`.
-5. Add `"react/prop-types": 0,` to the package.son file.
+5. Add `"react/prop-types": 0,` to the eslint.config.js file.
 
 ## Watch Live
 

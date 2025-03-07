@@ -8,11 +8,11 @@ This project implements a login form with interactive animations on the input fi
 
 ## How to Run
 
-1. Clone the repository or create each project from scratch and the folder and file structure `npm create vite@latest projectName -- --template react`.
+1. Clone the repository or create each project from scratch and follow the folder and file structure `npm create vite@latest projectName -- --template react`.
 2. Navigate to the project folder: `cd animated-login-form`.
 3. Install the dependencies: `npm install`.
 4. Run the project: `npm run dev`.
-5. Add `"react/prop-types": 0,` to the package.son file.
+5. Add `"react/prop-types": 0,` to the eslint.config.js file.
 
 ## Watch Live
 

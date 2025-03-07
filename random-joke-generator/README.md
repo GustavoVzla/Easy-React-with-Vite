@@ -8,12 +8,12 @@ This project implements a random joke generator using the public API "icanhazdad
 
 ## How to Run
 
-1. Clone the repository or create each project from scratch and the folder and file structure `npm create vite@latest projectName -- --template react`.
+1. Clone the repository or create each project from scratch and follow the folder and file structure `npm create vite@latest projectName -- --template react`.
 2. Navigate to the project folder: `random-joke-generator`.
 3. Install the dependencies: `npm install`.
 4. Install axios library: `npm install axios`.
 5. Run the project: `npm run dev`.
-6. Add `"react/prop-types": 0,` to the package.son file.
+6. Add `"react/prop-types": 0,` to the eslint.config.js file.
 
 ## Watch Live
 
