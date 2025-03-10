@@ -45,6 +45,7 @@ Contributions are welcome! If you have ideas for new projects or improvements, o
 | 8      | [Animated Login Form](animated-login-form)               | [Demo](https://animated-login-form-ten.vercel.app/)     |
 | 9      | [Interactive Sound Board](interactive-sound-board)       | [Demo](https://interactive-sound-board.vercel.app/)     |
 | 10     | [Random Joke Generator](random-joke-generator)           | [Demo](https://random-joke-generator-brown.vercel.app/) |
+| 11     | [Event KeyCodes](event-keycodes)                         | [Demo](https://event-keycodes-brown.vercel.app/)        |
 
 ## License
 
@@ -55,6 +56,7 @@ This project is under the MIT license. See the [LICENSE](LICENSE) file for detai
 - www.linkedin.com/in/gustavotejera
 - **Instagram**: @gustavotejera.dev
 - **TikTok**: @gustavotejera.dev
+- **YouTube**: www.youtube.com/@tejeragustavo
 
 ---
 
