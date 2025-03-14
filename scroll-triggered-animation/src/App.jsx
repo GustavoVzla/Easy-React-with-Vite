@@ -3,7 +3,7 @@ import "./styles/App.css";
 
 const App = () => {
   const boxes = Array.from(
-    { length: 16 },
+    { length: 20 },
     (_, index) => `Content ${index + 1}`
   );
 
@@ -11,7 +11,7 @@ const App = () => {
     <div>
       <h1>Scroll to see the animation</h1>
       {boxes.map((content, index) => (
-        <Box key={index} content={content} />
+        <Box key={index} content={content} index={index} />
       ))}
     </div>
   );

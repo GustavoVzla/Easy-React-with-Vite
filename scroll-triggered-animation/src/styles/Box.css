@@ -6,7 +6,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 400px;
+  width: clamp(280px, 90%, 400px);
   height: 200px;
   margin: 10px;
   border-radius: 10px;
@@ -15,11 +15,11 @@
 }
 
 .box {
-  transform: translateX(400%);
+  transform: translateX(200%);
 }
 
 .box:nth-of-type(even) {
-  transform: translateX(-400%);
+  transform: translateX(-200%);
 }
 
 .box.show {
@@ -27,5 +27,13 @@
 }
 
 .box h2 {
-  font-size: 45px;
+  font-size: clamp(24px, 5vw, 45px);
+  color: white;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+}
+
+@media (max-width: 768px) {
+  .box {
+    height: 150px;
+  }
 }

@@ -7,19 +7,33 @@ const Box = ({ content }) => {
 
   useEffect(() => {
     const checkBoxes = () => {
-      const triggerBotton = (window.innerHeight / 5) * 4;
-      const boxTop = boxRef.current.getBoundingClientRect().top;
-      if (boxTop < triggerBotton) {
-        setShow(true);
-      } else {
-        setShow(false);
+      // Usar una proporción más adecuada para móviles
+      const triggerBottom = window.innerHeight * 0.8;
+      
+      if (boxRef.current) {
+        const boxTop = boxRef.current.getBoundingClientRect().top;
+        
+        if (boxTop < triggerBottom) {
+          setShow(true);
+        } else {
+          setShow(false);
+        }
       }
     };
 
-    window.addEventListener("scroll", checkBoxes);
+    // Usar passive: true para mejorar el rendimiento en móviles
+    window.addEventListener("scroll", checkBoxes, { passive: true });
+    
+    // Verificar también al cambiar el tamaño de la ventana
+    window.addEventListener("resize", checkBoxes, { passive: true });
+    
+    // Verificar al cargar para elementos ya visibles
     checkBoxes();
 
-    return () => window.removeEventListener("scroll", checkBoxes);
+    return () => {
+      window.removeEventListener("scroll", checkBoxes);
+      window.removeEventListener("resize", checkBoxes);
+    };
   }, []);
 
   return (
