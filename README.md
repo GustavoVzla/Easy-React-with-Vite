@@ -47,6 +47,7 @@ Contributions are welcome! If you have ideas for new projects or improvements, o
 | 10     | [Random Joke Generator](random-joke-generator)           | [Demo](https://random-joke-generator-brown.vercel.app/) |
 | 11     | [Event KeyCodes](event-keycodes)                         | [Demo](https://event-keycodes-brown.vercel.app/)        |
 | 12     | [FAQ App](faq-app)                                       | [Demo](https://faq-app-rose.vercel.app/)                |
+| 13     | [Random Tag Selector](random-tag-selector)               | [Demo](https://random-tag-selector.vercel.app/)         |
 
 ## License
 
