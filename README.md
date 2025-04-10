@@ -50,6 +50,7 @@ Contributions are welcome! If you have ideas for new projects or improvements, o
 | 13     | [Random Tag Selector](random-tag-selector)               | [Demo](https://random-tag-selector.vercel.app/)          |
 | 14     | [Animated Navigation Menu](animated-navigation-menu)     | [Demo](https://animated-navigation-menu-six.vercel.app/) |
 | 15     | [Social Media Counters](social-media-counters)           | [Demo](https://social-media-counters-beta.vercel.app/)   |
+| 16     | [Water Tracker](water-tracker)                           | [Demo](https://water-tracker-beryl-theta.vercel.app/)    |
 
 ## License
 
