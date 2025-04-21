@@ -1,0 +1,23 @@
+input[type="text"] {
+  background-color: rgba(255, 255, 255, 0.15);
+  border: 2px solid transparent;
+  border-radius: 50px;
+  font-family: inherit;
+  font-size: 1rem;
+  padding: 0.5rem 1rem;
+  color: var(--text-color);
+  transition: all 0.3s;
+  width: 250px;
+}
+
+input[type="text"]::placeholder {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+input[type="text"]:focus {
+  outline: none;
+  background-color: rgba(255, 255, 255, 0.25);
+  border-color: var(--secondary-color);
+  width: 280px;
+  box-shadow: 0 0 8px rgba(3, 218, 198, 0.5);
+}
