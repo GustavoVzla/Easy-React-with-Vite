@@ -2,6 +2,7 @@ const API_URL =
   "https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=3fd2be6f0c70a2a598f084ddfb75487c&page=1";
 const SEARCH_API =
   "https://api.themoviedb.org/3/search/movie?api_key=3fd2be6f0c70a2a598f084ddfb75487c&query=";
+const API_KEY = "3fd2be6f0c70a2a598f084ddfb75487c";
 
 export const fetchMovies = async (url) => {
   try {
@@ -17,10 +18,30 @@ export const fetchMovies = async (url) => {
   }
 };
 
-export const getPopularMovies = () => {
-  return fetchMovies(API_URL);
+// Función para obtener películas populares con paginación
+export const getPopularMovies = async (page = 1) => {
+  try {
+    const response = await fetch(
+      `${API_URL}/movie/popular?api_key=${API_KEY}&page=${page}`
+    );
+    const data = await response.json();
+    return data.results;
+  } catch (error) {
+    console.error("Error fetching popular movies:", error);
+    return [];
+  }
 };
 
-export const searchMovies = (query) => {
-  return fetchMovies(SEARCH_API + query);
+// Función para buscar películas con paginación
+export const searchMovies = async (query, page = 1) => {
+  try {
+    const response = await fetch(
+      `${API_URL}/search/movie?api_key=${API_KEY}&query=${query}&page=${page}`
+    );
+    const data = await response.json();
+    return data.results;
+  } catch (error) {
+    console.error("Error searching movies:", error);
+    return [];
+  }
 };
