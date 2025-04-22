@@ -22,7 +22,7 @@ export const fetchMovies = async (url) => {
 export const getPopularMovies = async (page = 1) => {
   try {
     const response = await fetch(
-      `${API_URL}/movie/popular?api_key=${API_KEY}&page=${page}`
+      `https://api.themoviedb.org/3/movie/popular?api_key=${API_KEY}&page=${page}`
     );
     const data = await response.json();
     return data.results;
@@ -36,7 +36,7 @@ export const getPopularMovies = async (page = 1) => {
 export const searchMovies = async (query, page = 1) => {
   try {
     const response = await fetch(
-      `${API_URL}/search/movie?api_key=${API_KEY}&query=${query}&page=${page}`
+      `${SEARCH_API}${query}&page=${page}`
     );
     const data = await response.json();
     return data.results;

@@ -52,6 +52,7 @@ Contributions are welcome! If you have ideas for new projects or improvements, o
 | 15     | [Social Media Counters](social-media-counters)           | [Demo](https://social-media-counters-beta.vercel.app/)   |
 | 16     | [Water Tracker](water-tracker)                           | [Demo](https://water-tracker-beryl-theta.vercel.app/)    |
 | 17     | [Movie App](movie-app)                                   | [Demo](https://movie-app-sigma-six-26.vercel.app/)       |
+| 18     | [Image Navigator](image-navigator)                       | [Demo](https://image-navigator.vercel.app/)              |
 
 ## License
 
